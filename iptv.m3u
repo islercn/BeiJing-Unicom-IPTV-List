@@ -1,5 +1,4 @@
-#EXTM3U
-name="bj-unicom-iptv"
+#EXTM3U name="bj-unicom-iptv"
 #EXTINF:-1,CCTV-1高清
 http://192.168.11.1:8888/rtp/239.3.1.129:8008
 #EXTINF:-1,CCTV-2高清
@@ -149,7 +148,7 @@ http://192.168.11.1:8888/rtp/239.3.1.107:8001
 #EXTINF:-1,CCTV-4
 http://192.168.11.1:8888/rtp/239.3.1.4:8216
 #EXTINF:-1,CCTV-5
-http://192.168.11.1:8888/rtp/239.3.1.108:8001
+http://192.168.11.1:8888/rtp/239.3.1.108:8001	
 #EXTINF:-1,CCTV-6
 http://192.168.11.1:8888/rtp/239.3.1.109:8001
 #EXTINF:-1,CCTV-7
